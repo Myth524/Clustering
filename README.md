@@ -9,10 +9,10 @@ This project focuses on implementing clustering algorithms to segment the custom
 **Performance Metrics:** Measures the quality of the clustering solutions using indices like the Silhouette score to ensure cohesion and separation between groups.
 
 ## **Technologies Used**
-**Python:** For data analysis and implementation of clustering algorithms.
-**Scikit-learn:** A library used for applying clustering methods such as K-means, DBSCAN, and agglomerative clustering.
-**Pandas & NumPy:** For data manipulation and analysis.
-**Matplotlib & Seaborn:** Used for visualizing the clusters and performance metrics.
+-**Python:** For data analysis and implementation of clustering algorithms.
+-**Scikit-learn:** A library used for applying clustering methods such as K-means, DBSCAN, and agglomerative clustering.
+-**Pandas & NumPy:** For data manipulation and analysis.
+-**Matplotlib & Seaborn:** Used for visualizing the clusters and performance metrics.
 
 ## **Conclusion**
 This project demonstrates the power of clustering algorithms in retail by helping companies identify distinct customer groups. The results suggest that using 11 clusters provides a balanced approach to customer segmentation, making marketing efforts more targeted and efficient.
