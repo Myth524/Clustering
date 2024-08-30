@@ -5,7 +5,9 @@ This project focuses on implementing clustering algorithms to segment the custom
 
 ## **Key Features**
 **Customer Segmentation:** Utilizes clustering methods like K-means, DBSCAN, and agglomerative clustering to divide customers into groups based on their behaviors and characteristics.
+
 **Optimal Grouping:** After evaluating multiple methods, the project concludes that dividing the customers into 11 clusters, using the agglomerative method, yields the most effective segmentation for the retail context.
+
 **Performance Metrics:** Measures the quality of the clustering solutions using indices like the Silhouette score to ensure cohesion and separation between groups.
 
 ## **Technologies Used**
